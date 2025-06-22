@@ -8,8 +8,6 @@ A simple tool to slow down people's Internet connection with ARP spoofing.
 
 2. `cd` into the directory and `make`.
 
-    <img src="https://imgur.com/xIRcPLb.gif" alt="Peek 2021-06-11 22-52" style="zoom:67%;" />
-
 ## How to use
 
 1. After `make`, run the program with `sudo bin/main`. `sudo` is required for performing the attack.
